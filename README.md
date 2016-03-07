@@ -1,4 +1,4 @@
 # ejemplo-django-tables2
 
-user = usuario
+user = usuario  
 password = admin123456
